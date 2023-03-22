@@ -1,2 +1,3 @@
-# PrepCourse-Henry2023
-repositorio de ejemplo Henry
+Henry
+Este repositorio es una prueba de como crear un repositorio en GitHub
+Este repositorio es una prueba de como crear un repositorio en GitHubes una prueba de como crear un repositorio en GitHub
